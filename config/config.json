@@ -10,7 +10,7 @@
             "field": "kb_viewcount",
             "order": -1
         },
-        "website_title": "Vertix Suppoert",
+        "website_title": "Vertix Support",
         "show_featured_articles": true,
         "show_featured_in_article": false,
         "featured_articles_count": "4",
@@ -21,7 +21,7 @@
         "mermaid": false,
         "mathjax": false,
         "mathjax_input_mode": "TeX-MML-AM_CHTML",
-        "app_context": "",
+        "app_context": "https://support.vertixstudios.com",
         "links_blank_page": false,
         "database": {
             "type": "embedded"
@@ -46,7 +46,7 @@
             "cssHeaderTextColor": "",
             "cssFooterBackgroundColor": "",
             "cssFooterTextColor": "",
-            "cssButtonBackgroundColor": "#3693EA",
+            "cssButtonBackgroundColor": "#eb4b68",
             "cssButtonTextColor": "",
             "cssLinkColor": "",
             "cssTextColor": "",
