@@ -186,5 +186,7 @@
 	"Private": "Private",
 	"All unused files have been removed": "All unused files have been removed",
 	"User is admin?": "User is admin?",
-	"User account updated.": "User account updated."
+	"User account updated.": "User account updated.",
+	"User deleted.": "User deleted.",
+	"Allows for the website to be run from a non root path. Eg: http://127.0.0.1:4444/vertixstudios/": "Allows for the website to be run from a non root path. Eg: http://127.0.0.1:4444/vertixstudios/"
 }

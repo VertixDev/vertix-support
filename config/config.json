@@ -21,7 +21,7 @@
         "mermaid": false,
         "mathjax": false,
         "mathjax_input_mode": "TeX-MML-AM_CHTML",
-        "app_context": "https://support.vertixstudios.com",
+        "app_context": "",
         "links_blank_page": false,
         "database": {
             "type": "embedded"
